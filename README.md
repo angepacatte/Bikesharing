@@ -19,6 +19,8 @@ The original data was transformed so that the timeduration was changed to a date
 
 ##*Results
 
+Link to Tableau Story:  https://public.tableau.com/app/profile/angela.pacatte/viz/CitiBikeChallenge_16431688739080/Story1?publish=yes
+
 This is a bar chart showing the peak hours of bike rental.  The rental numbers peak 7-9 AM and 4-7 PM.
 
 ![image](https://user-images.githubusercontent.com/85581208/151676435-74a8b2f2-715d-47c4-9811-9bfb31ccd9f1.png)
