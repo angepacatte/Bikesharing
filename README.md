@@ -1,6 +1,6 @@
 # Bikesharing
 
-##*Overview
+## Overview
 
 The project was a statistical analysis of city bike sharing data for the month of August in New York City.  There were many fields in the data including day of the week, time of day, gender, and location where the ride started and the ride ended.  The information is helpful in determining when the most bikes need to be available, when bikes can be repaired, and where the majority of the bikes need to be located among other details.
 
@@ -17,7 +17,7 @@ The original data was transformed so that the timeduration was changed to a date
 
 
 
-##*Results
+## Results
 
 Link to Tableau Story:  https://public.tableau.com/app/profile/angela.pacatte/viz/CitiBikeChallenge_16431688739080/Story1?publish=yes
 
@@ -53,7 +53,7 @@ The last image is a heatmap breaking down by usertype and gender. Female custome
 
 ![image](https://user-images.githubusercontent.com/85581208/151676759-b9078592-e704-4f9e-a692-9c7a531ee8a8.png)
 
-##*Summary
+## Summary
 
 In summary, males use the bike the most over females.  The highest traffic times appear to be in the morning and later afternoon.  This correlates with commutes to work and home from work.  The weekends appear to have steady usage all day.  To do further analysis, a break down of where women/men are starting their trips.  Another area to look into could be where trips are starting and ending on the weekend.
 
