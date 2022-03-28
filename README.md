@@ -2,9 +2,9 @@
 
 ## Overview
 
-The project was a statistical analysis of city bike sharing data for the month of August in New York City.  There were many fields in the data including day of the week, time of day, gender, and location where the ride started and the ride ended.  The information is helpful in determining when the most bikes need to be available, when bikes can be repaired, and where the majority of the bikes need to be located among other details.
+The project was a statistical analysis of city bike sharing data for the month of August in New York City.  There were many fields in the data including day of the week, time of day, gender, and location where the ride started and the ride ended.  The information is helpful in determining when the largest volume of bikes need to be available, when bikes can be repaired, and where the majority of the bikes need to be located among other details.
 
-The original data was transformed so that the timeduration was changed to a date and time.  This was done in jupyter notebooks with pandas.  The next 3 images show the steps taken to convert the data and put it into a new csv file.
+The original data was transformed so that the timeduration was changed to a date and time.  This was performed in Jupyter Notebook with pandas.  The next 3 images show the steps taken to convert the data and put it into a new csv file.
 
 ![image](https://user-images.githubusercontent.com/85581208/151676304-96e427b6-1606-4bdd-92fa-3e655fdb7e18.png)
 
